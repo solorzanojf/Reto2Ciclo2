@@ -14,7 +14,7 @@ public class MedicamentosLegal extends Medicamentos{
         pais_fabricacion = PAIS_FABRICACION;
     }
 
-    MedicamentosLegal(String pais_fabricacion){
+    public MedicamentosLegal(String pais_fabricacion){
         this.pais_fabricacion = pais_fabricacion;
     }
 

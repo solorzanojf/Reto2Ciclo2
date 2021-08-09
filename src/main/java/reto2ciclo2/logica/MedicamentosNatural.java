@@ -14,7 +14,7 @@ public class MedicamentosNatural extends Medicamentos{
         this.numero_unidades = NUMERO_UNIDADES;
     }
 
-    MedicamentosNatural(int numero_unidades){
+    public MedicamentosNatural(int numero_unidades){
         this.numero_unidades = numero_unidades;
     }
 

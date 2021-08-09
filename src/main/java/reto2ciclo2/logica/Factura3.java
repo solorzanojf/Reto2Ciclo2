@@ -9,7 +9,7 @@ public class Factura3 {
         
     }
 
-    public void mostratTotales(){
+    public void mostrarTotales(){
         double totalMedicamentos = 0;
         double totalMedicamentosLegal = 0;
         double totalMedicamentosNatural = 0;
